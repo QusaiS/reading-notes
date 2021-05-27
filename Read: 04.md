@@ -1,10 +1,10 @@
 # JavaScript
 
-*** computer programming language commonly used to create interactive effects within web browsers. ***
+ ### computer programming language commonly used to create interactive effects within web browsers. 
 
 * JavaScript contain Expressions and operators
 
-let us Know more about it.
+ let us Know more about it.
 >
 ![JavaScript](https://res.cloudinary.com/practicaldev/image/fetch/s--sqXFkEvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png)
 
