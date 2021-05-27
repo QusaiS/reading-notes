@@ -14,37 +14,18 @@
  
 
 
+ ### JavaScript has the following types of operators:
 
-* ** there are many types of operator: **  
-1-Assignment operators   
-2-Comparison operators  
-3-Arithmetic operators  
-4-Bitwise operators  
-5-Logical operators  
-6-String operators  
-7-Conditional (ternary) operator
-8-Comma operator  
-9-Unary operators  
-10-Relational operators
++ Assignment operators **For** example `3+4 or x*y.`
++ Comparison operators **For** example `x = y `
++ Arithmetic operators **For** example `(+), subtraction (-)multiplication`
++ Bitwise operators **For** example `a & b`
++ Logical operators **For** example `&& and ||`
++ String operators **For** example `'my ' + 'string'`
++ Conditional (ternary) operator **For** example `condition ? val1 : val2`
++ Comma operator **For** evaluates both of its operands and returns the value of the last operand
++ Unary operators **For** example `delete` `typeof`
++ Relational operators **For** example `in` `instanceof
 
-### Exampels:
-
-- Assign values to variables and add them together:
-       
-      
-var x = 5;         // assign the value 5 to x
-var y = 2;         // assign the value 2 to y
-var z = x + y;     // assign the value 7 to z (5 + 2)
-
-- The assignment operator (=) assigns a value to a variable.  
-Assignment  
-var x = 10;
-
-- The addition operator (+) adds numbers:
-
-Adding       
-var x = 5;    
-var y = 2;         
-var z = x + y;
 
 
