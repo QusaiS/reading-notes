@@ -1,12 +1,10 @@
-
 ##  **Loops and iteration**
 > Loops offer a quick and easy way to do something repeatedly.
 
 There are many different types of loops, but they all essentially do the same thing: they repeat an action some number of times.
 
 
-* we will talk about for loop statement and 
-while loop statement.
+* we will talk about for loop statement 
 
 ### For Loop statement
 
@@ -41,24 +39,11 @@ _5- Loop termination:When the condition becomes false, the loop terminates marki
 < /script>
 
 
-
-  
-  
 ** Output:**
 
 Value of x:2
 Value of x:3
 Value of x:4
 
- 
-  
- ## while statement :
-``while (condition)
-  statement``
-> A while statement executes its statements as long as a specified condition evaluates to true.
-ex:``let n = 0;
-let x = 0;
-while (n < 3) {
-  n++;
-  x += n;
-}
+
+
