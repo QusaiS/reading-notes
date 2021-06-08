@@ -40,8 +40,7 @@ with mailto: and is followed by
 the email address you want the
 email to be sent to.
 
--Example:
-<a href="">Qusai Saqer/a>
+
 
 # Layout in Css:-
 ----------------------------------
