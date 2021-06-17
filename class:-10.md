@@ -6,12 +6,11 @@
 * using a console in the browser could make to handle any error. If your browser supports debugging, you can use console.log() to display JavaScript values in the debugger window:
 * "Example
 ***
-<script>
+
 a = 5;
 b = 6;
 c = a + b;
 console.log(c);
-</script>
 
 
 * DeDebugging is the process of finding errors. It involves a process of deduction.
