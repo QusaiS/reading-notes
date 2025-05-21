@@ -21,7 +21,6 @@ Home    | [Home]().
  Read 14a    | [CSS Transforms, Transitions, and Animations]( ).
  Read 14b    | [What Google Learned About Teams]( ).
 
-### I'm living in Amman- Jordan.
 ### I'm a student at Lutc college.
 ### I'm learning about :-
 ```
